@@ -36,4 +36,4 @@ user_groups:
 - Group members
 ---
 
-Ayako is a PhD student majoring in geophysics at MIT EAPS. Her research motivation is to reveal the physical interaction between a megathrust earthquake and other seismic or geophysical phenomena by understanding source mechanisms of earthquakes in subduction zones from top to bottom. She is currently working on regional seismic activities of deep-focus earthquakes in Bucaramanga Nest, Columbia.
+Ayako is a PhD student majoring in geophysics at MIT EAPS. Her research motivation is to reveal the physical interaction between a megathrust earthquake and other seismic or geophysical phenomena by understanding source mechanisms of earthquakes in subduction zones from top to bottom. She is currently working on regional seismic activities of deep-focus earthquakes in Bucaramanga Nest, Colombia.
